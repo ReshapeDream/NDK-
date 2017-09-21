@@ -67,6 +67,6 @@ public class MainActivity extends Activity {
 }
 
 ```
-**一定不要忘了`loadLibrary**</br>
+**一定不要忘了`loadLibrary`**</br>
 运行即可成功
     
